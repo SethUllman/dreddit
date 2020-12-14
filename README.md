@@ -6,7 +6,7 @@
 
 # <h1 align="center">Dreddit</h1>
 
-[Live Link](http://dreddit-dredd.herokuapp.com/#/)
+[Live Link](https://d-reddit.herokuapp.com/#/)
 
 An online hub for gripes, grumbles, and other grievances. Dreddit is a Reddit clone built with the MERN stack, 
 a combination of following four technologies: MongoDB, Express, React, and Node.
